@@ -574,7 +574,7 @@
 ### Tabela Resumida
 
 | ID | Data | Tema | Título | Status | Banner | Blog | Thread | Premium | Prioridade | Fase |
-|----|------|-------|--------|--------|--------|-------|----------|------------|-------|
+|:---|:---|:---|:---|:---:|:---::---|:---:|:---:|:---:|:---|
 | 001 | 13/01 | Termos Básicos | IA/ML/LLM: Explica pro chefe! | completed | ✅ | ✅ | ✅ | ❌ | Alta | 1 |
 | 002 | 15/01 | Cloud vs Local | Cloud ESPIONA você? 5min teste! | backlog | - | - | - | - | Alta | 1 |
 | 003 | 20/01 | Empregos | IA faz ISSO por você HOJE | backlog | - | - | - | - | Alta | 1 |

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article>
+    <header>
+        <h2>{{ page.title }}</h2>
+        <p>
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+            {% if page.twitter_id %}
+            | <a href="https://x.com/{{ site.twitter_username }}/status/{{ page.twitter_id }}" class="tweet-link">Tweet original</a>
+            {% endif %}
+        </p>
+    </header>
+
+    {{ content }}
+
+    {% if page.premium_video %}
+    <div class="cta-box">
+        <h3>🎬 Conteúdo Premium</h3>
+        <p>Este post tem um vídeo premium com explicação detalhada.</p>
+        <p><a href="{{ page.premium_link }}" style="background: #000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Assinar Premium</a></p>
+    </div>
+    {% endif %}
+
+    {% if page.twitter_thread %}
+    <div class="cta-box">
+        <h3>🧵 Thread no Twitter</h3>
+        <p>Este post é parte de uma thread no Twitter/X.</p>
+        <p><a href="https://x.com/{{ site.twitter_username }}/status/{{ page.twitter_thread }}" class="tweet-link">Ler thread completa</a></p>
+    </div>
+    {% endif %}
+
+    <hr>
+    <nav>
+        <a href="/">← Voltar para home</a>
+    </nav>
+</article>

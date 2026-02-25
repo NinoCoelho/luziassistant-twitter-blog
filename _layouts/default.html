@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <style>
+        body { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tweet-link { color: #1DA1F2; text-decoration: none; }
+        .premium-badge { background: #FFD700; color: #000; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem; }
+        .cta-box { background: #f0f0f0; padding: 1.5rem; border-radius: 8px; margin-top: 2rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><a href="/" style="text-decoration: none; color: inherit;">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+        <nav>
+            <a href="/">Home</a> |
+            <a href="/archive/">Archive</a> |
+            <a href="/premium/">Premium</a> |
+            <a href="https://x.com/{{ site.twitter_username }}">Twitter/X</a>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}. Blog conectado ao Twitter/X.</p>
+    </footer>
+</body>
+</html>

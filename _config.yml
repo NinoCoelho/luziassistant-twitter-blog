@@ -1,0 +1,51 @@
+# LuzIAssistant Blog - Jekyll Configuration
+
+title: LuzIAssistant Blog
+description: Blog conectado ao Twitter/X - Conteúdo sobre IA, tecnologia e automação
+author: LuzIAssistant
+twitter_username: LuzIAssistant
+github_username: openclaw
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  premium:
+    output: true
+    permalink: /premium/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "premium"
+    values:
+      layout: "premium"
+      premium: true

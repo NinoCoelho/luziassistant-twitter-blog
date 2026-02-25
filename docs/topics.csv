@@ -1,0 +1,43 @@
+id,data,post,tema,titulo,status,banner,blog,thread,premium,prioridade,fase
+001,13/01,1,Termos Básicos,"IA/ML/LLM: Explica pro chefe!",completed,Y,Y,N,Y,Alta,1
+002,15/01,2,Cloud vs Local,"Cloud ESPIONA você? 5min teste!",backlog,-,-,-,-,Alta,1
+003,20/01,3,Empregos,"IA faz ISSO por você HOJE",backlog,-,-,-,-,Alta,1
+004,22/01,4,Dados,"ChatGPT VÊ suas conversas?",backlog,-,-,-,-,Alta,1
+005,27/01,5,Backup,"Nunca perca NADA: 1 botão",backlog,-,-,-,-,Alta,1
+006,29/01,6,Memória,"IA lembra TUDO que você disse",backlog,-,-,-,-,Alta,1
+007,03/02,7,1ª IA Local,"ChatGPT local SEM instalar!",backlog,-,-,-,-,Alta,1
+008,05/02,8,Interface,"ChatGPT local BONITO e fácil",backlog,-,-,-,-,Alta,1
+009,10/02,9,PDFs,"Pergunte pros SEUS PDFs!",backlog,-,-,-,-,Alta,1
+010,12/02,10,Livros,"Resuma qualquer livro 5min",backlog,-,-,-,-,Alta,1
+011,17/02,11,Emails,"Responda 100 emails/dia",backlog,-,-,-,-,Alta,2
+012,19/02,12,Busca Arquivos,"Encontre qualquer arquivo",backlog,-,-,-,-,Alta,2
+013,24/02,13,Notícias,"Notícias inbox 5min/dia",backlog,-,-,-,-,Média,2
+014,26/02,14,WhatsApp,"WhatsApp responde sozinho",backlog,-,-,-,-,Alta,2
+015,03/03,15,LGPD,"LGPD 5 perguntas: Compliant!",backlog,-,-,-,-,Alta,2
+016,05/03,16,Criptografia,"Arquivos BLINDADOS 1-clique",backlog,-,-,-,-,Alta,2
+017,10/03,17,Reuniões,"1h reunião → 30s bullets",backlog,-,-,-,-,Alta,2
+018,12/03,18,Pesquisa,"Google dá lixo? IA pessoal!",backlog,-,-,-,-,Alta,2
+019,17/03,19,No-Code App,"Seu app em 1h SEM programar",backlog,-,-,-,-,Alta,2
+020,19/03,20,1º Agente,"Agente roda SOZINHO",backlog,-,-,-,-,Alta,2
+021,24/03,21,Web Agent,"IA pesquisa web SOZINHA",backlog,-,-,-,-,Alta,2
+022,26/03,22,Organização,"50GB caos → Sistema busca",backlog,-,-,-,-,Alta,2
+023,31/03,23,MARKDOWN,"Profissional SEM Word/Canva!",backlog,-,-,-,-,Alta,2
+024,02/04,24,Wiki Pessoal,"Seu Google pessoal GRÁTIS",backlog,-,-,-,-,Alta,2
+025,07/04,25,Idiomas,"Cliente inglês? Traduz PERFEITO",backlog,-,-,-,-,Alta,3
+026,14/04,26,24/7 Agente,"IA funciona enquanto você dorme",backlog,-,-,-,-,Alta,3
+027,16/04,27,Multi Agentes,"Equipe 3 IAs especializadas",backlog,-,-,-,-,Alta,3
+028,21/04,28,z.ai Barato,"$3/mês > ChatGPT Pro $20",backlog,-,-,-,-,Alta,3
+029,23/04,29,Templates Pro,"Design 30s vs Canva 1h",backlog,-,-,-,-,Alta,3
+030,28/04,30,RAG Avançado,"Respostas 99% vs 70% ruins",backlog,-,-,-,-,Alta,3
+031,30/04,31,Scale Empresa,"1 usuário → 10 simultâneos",backlog,-,-,-,-,Média,3
+032,05/05,32,Analytics,"Dashboards IA GRÁTIS",backlog,-,-,-,-,Média,4
+033,07/05,33,API Própria,"Venda SUA IA R$97/mês",backlog,-,-,-,-,Alta,4
+034,12/05,34,Zero Cloud,"100% LOCAL forever",backlog,-,-,-,-,Alta,4
+035,16/05,35,Freelancer,"R$5k/mês IA freelancer",backlog,-,-,-,-,Alta,4
+036,21/05,36,Dev Roadmap,"Programador → IA Expert",backlog,-,-,-,-,Alta,4
+037,23/05,37,Marketing,"Marketing 10x com IA",backlog,-,-,-,-,Alta,4
+038,28/05,38,Vendas,"Fechamento 80% auto IA",backlog,-,-,-,-,Alta,4
+039,30/05,39,Comunidade,"Sua tribo IA R$497/mês",backlog,-,-,-,-,Alta,5
+040,04/06,40,Agência,"Agência IA 1 pessoa R$20k",backlog,-,-,-,-,Alta,5
+041,06/06,41,Enterprise,"Empresa 50 funcionários IA",backlog,-,-,-,-,Alta,5
+042,11/06,42,Mestre Completo,"Leigo → Astro IA: Você chegou!",backlog,-,-,-,-,-,Alta,5

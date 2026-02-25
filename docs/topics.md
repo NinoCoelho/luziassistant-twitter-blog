@@ -109,7 +109,7 @@
 
 | ID | Data | Tema | Título | Status | Banner | Blog | Thread | Premium | Prioridade | Fase |
 |----|------|-------|--------|--------|--------|-------|----------|------------|-------|
-| 001 | 13/01 | Termos Básicos | IA/ML/LLM: Explica pro chefe! | blogPosted | Y | Y | N | Alta | 1 |
+| 001 | 13/01 | Termos Básicos | IA/ML/LLM: Explica pro chefe! | blogPosted | - | Y | N | Alta | 1 |
 | 002 | 15/01 | Cloud vs Local | Cloud ESPIONA você? 5min teste! | backlog | - | - | - | Alta | 1 |
 | 003 | 20/01 | Empregos | IA faz ISSO por você HOJE | backlog | - | - | - | Alta | 1 |
 | 004 | 22/01 | Dados | ChatGPT VÊ suas conversas? | backlog | - | - | - | Alta | 1 |

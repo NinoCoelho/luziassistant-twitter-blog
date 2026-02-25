@@ -34,12 +34,13 @@ Veja [SETUP.md](SETUP.md) para instruções completas de como:
 
 - [x] Repositório criado localmente
 - [x] Estrutura Jekyll configurada
-- [ ] Repositório criado no GitHub
+- [x] Repositório criado no GitHub ✅
 - [ ] GitHub Pages configurado
-- [ ] Twitter integration ativa
+- [x] Twitter integration ativa (skill funcionando)
 - [ ] Premium platform configurada
 
 ## Links
 
 - Twitter: [@LuzIAssistant](https://x.com/LuzIAssistant)
-- Blog: (em breve - após setup no GitHub)
+- GitHub: [NinoCoelho/luziassistant-twitter-blog](https://github.com/NinoCoelho/luziassistant-twitter-blog)
+- Blog: (em breve - após GitHub Pages setup)

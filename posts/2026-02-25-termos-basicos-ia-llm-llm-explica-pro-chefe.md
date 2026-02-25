@@ -1,7 +1,4 @@
-# Post 001: IA/ML/LLM: Explica pro chefe!
-
 ---
-
 layout: post
 title: "IA/ML/LLM: Explica pro chefe!"
 date: 2026-02-25 13:00:00 -05:00
@@ -47,7 +44,7 @@ ML (Machine Learning) é uma capacidade de aprender padrões a partir de dados. 
 LLM (Large Language Model) é um tipo especializado de ML que pode conversar e gerar texto, código e manter conversas complexas. É o ChatGPT, o Claude, o Gemini.
 
 ### O que torna LLMs especiais
-- **Compreensão contextual:** Lembra de conversas anteriores (você: "Lembra minha empresa? Meu cliente JP?" → IA: "Claro, seu cliente JP da empresa TechBrasil, precisa de...")
+- **Compreensão contextual:** Lembra de conversas anteriores
 - **Geração de texto:** Cria e-mails, artigos, códigos
 - **Adaptação:** Muda o tom da resposta baseado no usuário
 
@@ -58,6 +55,7 @@ LLM (Large Language Model) é um tipo especializado de ML que pode conversar e g
 ## O Mito: "IA Pensa Como Humano"
 
 **Mito:** "A IA tem consciência como nós humanos"
+
 **Verdade:** "A IA prevê padrões estatísticos, mas não pensa"
 
 Aqui está a diferença fundamental:
@@ -93,6 +91,7 @@ Para entender tudo de forma organizada, pense assim:
 - Exemplo: ChatGPT, Claude, Gemini, GPT-4
 
 ### Resumo visual
+
 ```
 IA (todas as tecnologias de IA)
 ├── ML (aprendizado de padrões)
@@ -110,14 +109,16 @@ IA (todas as tecnologias de IA)
 ### 1. No Trabalho
 Quando seu chefe pergunta: "O que é essa IA LLM de que você tanto fala?"
 
-**Errado:** "Ah, é tipo o Netflix que recomenda filmes"
+**Errado:** "Ah, é tipo o Netflix que recomenda filmes."
 **Certo:** "LLM é uma IA especializada em conversa e geração de texto, como o ChatGPT. Ela usa ML por baixo dos panos, mas o foco é criação de conteúdo interativo."
 
 ### 2. Em Reuniões
 Quando discutem estratégia de adoção de IA na empresa:
 
-**Errado:** "Precisamos de LLM, ML e IA de forma separada"
-**Certo:** "LLM é ótimo para conversa e conteúdo interativo, mas precisamos de ML para personalização baseada em comportamento dos clientes, e de IA geral para outros casos como visão computacional e análise de dados."
+**Você:** "Precisamos de IA, ML e LLM de forma separada"
+**Chefe:** "Por que não usar só LLM então?"
+
+**Você:** "LLM é ótimo para conversa e conteúdo, mas precisamos de ML para personalização baseada em comportamento dos clientes, e de IA geral para outros casos como visão computacional e análise de dados."
 
 ### 3. Na Hora de Vender
 Quando cliente pergunta sobre seu "sistema de IA":
@@ -132,20 +133,22 @@ Para cada tecnologia abaixo, classifique como IA, ML ou LLM:
 
 1. ChatGPT conversando
 2. Gmail filtrando spam
-3. Spotify recomendando músicas
-4. IA médica detectando câncer
-5. Claude criando artigo
-6. Google Photos reconhecendo rosto
-7. Gemini gerando código
+3. IA médica detectando câncer
+4. Spotify recomendando músicas
+5. ChatGPT escrevendo código
+6. Sistema de visão computacional
+7. Google Photos reconhecendo rosto
+8. Gemini gerando artigo
 
 **Respostas:**
-- 1: LLM
-- 2: ML
-- 3: ML
-- 4: IA (geral)
-- 5: LLM
-- 6: ML
-- 7: LLM
+- 1: LLM (conversa)
+- 2: ML (aprendizado de padrões)
+- 3: IA (geral)
+- 4: ML (aprendizado de padrões)
+- 5: LLM (geração de código/texto)
+- 6: IA (geral - visão)
+- 7: ML (aprendizado de padrões visuais)
+- 8: LLM (geração de texto)
 
 ### Exercício 2: Aplique no Dia a Dia
 Onde cada tecnologia encaixa no seu trabalho?

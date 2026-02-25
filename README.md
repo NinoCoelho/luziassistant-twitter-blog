@@ -35,12 +35,21 @@ Veja [SETUP.md](SETUP.md) para instruções completas de como:
 - [x] Repositório criado localmente
 - [x] Estrutura Jekyll configurada
 - [x] Repositório criado no GitHub ✅
-- [ ] GitHub Pages configurado
+- [x] GitHub Pages configurado ✅ (luzia.center)
 - [x] Twitter integration ativa (skill funcionando)
+- [x] Agentes especializados criados ✅
 - [ ] Premium platform configurada
 
 ## Links
 
 - Twitter: [@LuzIAssistant](https://x.com/LuzIAssistant)
 - GitHub: [NinoCoelho/luziassistant-twitter-blog](https://github.com/NinoCoelho/luziassistant-twitter-blog)
-- Blog: (em breve - após GitHub Pages setup)
+- Blog: [luzia.center](https://luzia.center/)
+
+## Agentes Especializados
+
+- 🐦 **TwitterManager** - Gerencia postagens no Twitter/X
+- 📝 **BlogManager** - Gerencia posts do blog Jekyll
+- 🎯 **ContentManager** - Orquestrador principal
+
+Veja [SETUP-AGENTS.md](SETUP-AGENTS.md) para configurar os agentes.

@@ -8,7 +8,7 @@
 
 ## 📋 CALENDÁRIO CONSOLIDADO 42 POSTS (Jan-Jul 2026)
 
-**PÚBLICO**: Leigos completos (nunca viram terminal) → Profissionais IA (vendem serviço). **ZERO CLI até Post 30**.
+**PÚBLICO:** Leigos completos (nunca viram terminal) → Profissionais IA (vendem serviço). **ZERO CLI até Post 30**.
 
 | Data | ID | Post | Tema | Título | **ANTES** → **DEPOIS** |
 |------|----|------|-------|--------|------------------|
@@ -57,504 +57,6 @@
 
 ---
 
-## 📖 DETALHES COMPLETOS - O QUE ENSINAR (Temas Expandidos + Abordagem Psicológica)
-
-### 001 - Termos Básicos (13/01)
-
-**ANTES → DEPOIS:** Confusão total → Fala fluente IA
-
-**O QUE ENSINAR:**
-- **Hierarquia 3 níveis**: IA = sistema operacional cérebro (Windows), ML = aprende padrões (recomenda Netflix), LLM = conversa inteligente (ChatGPT)
-- **3 analogias**: Celular OS/ML/apps, carro direção autônoma, médico diagnóstico
-- **Mito**: "IA pensa como humano" → **Verdade**: "Prevê padrões estatísticos"
-- **Ação**: LM Studio download → "Olá mundo" funcionando
-
----
-
-### 002 - Cloud vs Local (15/01)
-
-**ANTES → DEPOIS:** "Só conheço ChatGPT" → Escolhe consciente
-
-**O QUE ENSINAR:**
-- **Psicologia medo**: 3 histórias reais (Samsung vazou voz, Amazon lê emails, OpenAI treina GPT5 com prompts)
-- **Matriz decisão**: Custo ($20 vs $0), Privacidade (total vs OpenAI lê), Dependência (internet vs offline), Velocidade (compara prompts iguais)
-- **Demo**: Mesmo prompt 3x ChatGPT vs LM Studio → qualidade/custo/tempo
-
----
-
-### 003 - Empregos (20/01)
-
-**ANTES → DEPOIS:** "Vou perder emprego" → Lista 5 tarefas delegadas
-
-**O QUE ENSINAR:**
-- **Mindset mudança**: IA = calcular 2.0 (ninguém chora calculadora)
-- **Mapeamento 80/20**: 80% tarefas escritório (resumos/emails/pesquisa/agendamentos/follow-up)
-- **Demo prática**: Copia últimas 5 tarefas ChatGPT → refaz LM Studio → mede tempo economizado (ex: 45min → 4min)
-- **Cases**: Assistente → +300% produtividade
-
----
-
-### 004 - Dados (22/01)
-
-**ANTES → DEPOIS:** "Guarda tudo?" → Faz primeiro backup
-
-**O QUE ENSINAR:**
-- **Dados = ouro moderno**: OpenAI usa prompts pra treinar GPT-5
-- **3 riscos reais**: Demissão (conversas RH), concorrência (estratégia vazada), legal (LGPD multas R$50M)
-- **Passo-a-passo**: Settings → Data Controls → Export Data → baixa JSON → abre browser → "Isto É SEU"
-- **Pergunta chave**: "Quer OpenAI lucrando com isso?"
-
----
-
-### 005 - Backup (27/01)
-
-**ANTES → DEPOIS:** Chats sumiram → Busca conversa 6 meses
-
-**O QUE ENSINAR:**
-- **Histórico = conhecimento acumulado**: 1 ano conversas = MBA personalizado
-- **Dor comum**: "Perdi ideias projeto X"
-- **Solução**: Upload JSON ChatGPT no **Anything LLM** → pergunta "O que falei sobre marketing em março?" → resposta exata com data
-- **3 use cases**: Recupera ideias, treina IA pessoal, evita repetir explicações
-
----
-
-### 006 - Memória (29/01)
-
-**ANTES → DEPOIS:** Repete contexto → Memória permanente
-
-**O QUE ENSINAR:**
-- **Problema repetição**: 80% tempo explicando background
-- **Abordagem comparativa**: 3 cenários (projeto/cliente/pessoal) → prompt simples vs com memória → qualidade +50%
-- **Métricas**: Tempo/prompt 5min → 30s
-- **Psicologia**: "IA finalmente me conhece"
-- **Demo**: "Lembra minha empresa? Meu cliente JP?"
-
----
-
-### 007 - 1ª IA Local (03/02)
-
-**ANTES → DEPOIS:** "Nunca instalei nada" → Chat 2min
-
-**O QUE ENSINAR:**
-- **Primeira vitória psicológica**: Download → funciona
-- **2 caminhos**: **Web primeiro** (ollama.com/chat) → **App depois** (LM Studio)
-- **3 prompts teste**: "Quem sou?", "Resuma meu dia", "3 ideias negócio"
-- **Barra progresso** = confiança imediata
-- **Mensagem**: "Você tem ChatGPT particular agora"
-
----
-
-### 008 - Interface (05/02)
-
-**ANTES → DEPOIS:** CLI assusta → Web bonita drag&drop
-
-**O QUE ENSINAR:**
-- **UX problema**: Leigos odeiam terminal
-- **Solução**: **Anything LLM desktop** → arrasta 5 PDFs → chat instantâneo
-- **Antes/Depois**: CLI feio vs web bonita
-- **3 fluxos**: Upload doc → pergunta → resposta destacada página
-- **Métrica**: Tempo setup 30min → 2min
-
----
-
-### 009 - PDFs (10/02)
-
-**ANTES → DEPOIS:** 45min procura manual → 12s resposta
-
-**O QUE ENSINAR:**
-- **Dor universal**: Contrato 127 páginas → "Onde tá cláusula pagamento?"
-- **Demo**: Upload 5 PDFs reais → pergunta específica → "Página 17, parágrafo 3"
-- **3 tipos**: Contrato/livro/manual técnico
-- **Métricas reais**: Tempo 45min → 12s, precisão 94% vs busca Ctrl+F 30%
-
----
-
-### 010 - Livros (12/02)
-
-**ANTES → DEPOIS:** 200 páginas → 300 palavras inteligentes
-
-**O QUE ENSINAR:**
-- **Problema tempo**: Quer conhecimento, não leitura
-- **3 níveis resumo**: Fraco (ChatGPT genérico), Médio (Ollama básico), Excelente (Anything LLM+contexto)
-- **Demo**: PDF **Atomic Habits grátis** → 3 resumos lado a lado → melhor vence
-- **5 templates**: Estudo/trabalho/executivo/vendas/criativos
-
----
-
-### 011 - Emails (17/02)
-
-**ANTES → DEPOIS:** Inbox 100+ → 80% templates IA
-
-**O QUE ENSINAR:**
-- **Regra 80/20**: 80% emails repetitivos
-- **3 templates reais**: **Vendas** ("orçamento"), **Suporte** ("erro login"), **Agendamento** ("reunião 15h")
-- **Integração**: MailMaestro (Gmail extension) + Ollama local
-- **Métrica**: 100 emails → 15min vs 2h
-
----
-
-### 012 - Busca Arquivos (19/02)
-
-**ANTES → DEPOIS:** "Onde tá aquele doc?" → 10k arquivos
-
-**O QUE ENSINAR:**
-- **Caos Downloads**: 50GB perdidos
-- **Solução**: **PrivateGPT** → pasta Downloads → "contrato 2025" → lista **5 arquivos relevantes rankeados**
-- **Antes/Depois**: Windows busca (100 resultados ruins) vs IA (3 perfeitos)
-- **3 categorias**: Trabalho/pessoal/financeiro
-
----
-
-### 013 - Notícias (24/02)
-
-**ANTES → DEPOIS:** 1000 artigos/semana → Top 3 ação
-
-**O QUE ENSINAR:**
-- **Problema atenção**: RSS sobrecarrega
-- **Fluxo**: **Feedly** (grátis) + **Make.com** → Ollama resume → email
-- **Template**: "Top 3 notícias + 1 ação hoje"
-- **Métrica**: 2h/semana → 5min/dia
-- **Fontes**: 5 sites confiáveis brasileiros
-
----
-
-### 014 - WhatsApp (26/02)
-
-**ANTES → DEPOIS:** 150 mensagens/dia → 20min
-
-**O QUE ENSINAR:**
-- **Realidade Brasil**: WhatsApp = principal canal
-- **Solução**: **ManyChat** (nocode) + Ollama webhook
-- **3 regras**: **Vendas** ("quanto?"), **Suporte** ("erro"), **Spam** (ignore)
-- **Métrica**: 150msg → 20min vs 3h
-- **Demo**: 10 mensagens reais
-
----
-
-### 015 - LGPD (03/03)
-
-**ANTES → DEPOIS:** "Tenho dados clientes?" → Checklist legal
-
-**O QUE ENSINAR:**
-- **Medo R$50M multas**: 90% MEI descumprem
-- **10 perguntas** sim/não + **Ollama gera política privacidade personalizada**
-- **Templates**: Termo consentimento, anonimização, cláusula contrato
-- **3 cenários**: MEI/freelancer/empresa 3+ funcionários
-
----
-
-### 016 - Criptografia (05/03)
-
-**ANTES → DEPOIS:** Google Drive exposto → Cofre invisível
-
-**O QUE ENSINAR:**
-- **Histórias reais**: Ex-namorado acessa Drive, cliente vê concorrência
-- **Solução**: **Cryptomator** (Dropbox criptografado)
-- **Abordagem**: Antes (plano grátis exposto) vs Depois (cofre transparente)
-- **3 casos**: Clientes/pessoal/fotos família
-
----
-
-### 017 - Reuniões (10/03)
-
-**ANTES → DEPOIS:** 20h/mês reuniões → Insights acionáveis
-
-**O QUE ENSINAR:**
-- **Dor corporativa**: Reuniões improdutivas
-- **Solução**: **MacWhisper app** → grava Zoom → 3 bullets + responsáveis + prazos
-- **Template**: "Decisões | Ações | Pendências"
-- **Demo**: 1h reunião → 30s resumo
-
----
-
-### 018 - Pesquisa (12/03)
-
-**ANTES → DEPOIS:** Resultados genéricos → Contexto pessoal
-
-**O QUE ENSINAR:**
-- **Relevância problema**: Google ignora SEUS docs
-- **Demo**: "impostos 2025" → Google (genérico) vs **Perplexity local** (contrato página 17)
-- **3 tipos**: Técnico/pessoal/legal
-- **Métrica**: Tempo relevante 90% maior
-
----
-
-### 019 - No-Code App (17/03)
-
-**ANTES → DEPOIS:** "Quero app" → Funcionando offline
-
-**O QUE ENSINAR:**
-- **Sonho empreendedor**: Lista tarefas salva
-- **Solução**: **Flowise drag&drop** → export HTML/JS → funciona offline
-- **3 passos**: Interface → lógica → dados salvos localStorage
-- **Demo**: App completo 47 linhas
-
----
-
-### 020 - 1º Agente (19/03)
-
-**ANTES → DEPOIS:** Automação sonho → 30s manual
-
-**O QUE ENSINAR:**
-- **Primeira automação real**: Email → resume → Notion
-- **Fluxo**: **Flowise** → Gmail trigger → Ollama resume → Notion salva
-- **Métrica**: 30min manual → 30s auto
-- **Psicologia**: "Finalmente trabalho pra mim"
-
----
-
-### 021 - Web Agent (24/03)
-
-**ANTES → DEPOIS:** 1h pesquisa → Relatório 5min
-
-**O QUE ENSINAR:**
-- **Caso prático**: "melhor notebook 2026" → tabela 5 modelos (preço/bateria/reviews)
-- **Fluxo**: **Flowise + Serper** → pesquisa → Ollama analisa → tabela Markdown
-- **Template relatório**: Cabeçalho/executivo/conclusão
-
----
-
-### 022 - Organização (26/03)
-
-**ANTES → DEPOIS:** Downloads perdidos → IA encontra
-
-**O QUE ENSINAR:**
-- **Vida real**: 10k arquivos sem sistema
-- **Solução**: **DocPii web app** → upload Downloads → "contratos 2024" → organiza por tipo + busca semântica
-- **Métrica**: Tempo busca 30min → 3s
-
----
-
-### 023 - MARKDOWN (31/03)
-
-**ANTES → DEPOIS:** Docs feios → GitHub bonito
-
-**O QUE ENSINAR:**
-- **Markdown = texto IA**: Word bagunça prompts, Markdown limpo = IA entende 100%
-- **3 apps**: **Typora** (visual Word-like), **Obsidian** (wiki), **MarkText** (minimalista)
-- **5 templates**: Proposta/notas reunião/relatório semanal/roadmap/Kanban
-- **Demo**: Mesmo conteúdo Word vs Markdown → IA processa 3x melhor
-
----
-
-### 024 - Wiki Pessoal (02/04)
-
-**ANTES → DEPOIS:** Notion 10 apps → 1 busca unificada
-
-**O QUE ENSINAR:**
-- **Problema fragmentação**: Email+Docs+Notion+WhatsApp
-- **Solução**: **Obsidian + Anything LLM** → "o que sei sobre marketing?" → tudo num lugar
-- **3 fontes**: PDFs+Markdown+conversas
-- **Métrica**: Tempo coordenação 2h → 30s
-
----
-
-### 025 - Idiomas (07/04)
-
-**ANTES → DEPOIS:** Barreira idioma → Contrato bilíngue
-
-**O QUE ENSINAR:**
-- **Dor freelancer**: Cliente EUA quer inglês técnico
-- **Solução**: **Ollama + LibreTranslate** → contrato PT-BR → EN-US + validação paralela
-- **3 casos**: Propostas/contratos/emails executivos
-- **Template**: Cabeçalho bilíngue + cláusulas lado a lado
-
----
-
-### 026 - 24/7 Agente (14/04)
-
-**ANTES → DEPOIS:** PC desliga → VPS sempre ligado
-
-**O QUE ENSINAR:**
-- **Limitação local**: PC off = IA parada
-- **Solução**: **Railway.app $6/mês** → Flowise 1-click deploy
-- **Demo**: WhatsApp 3h → resposta auto 3min depois
-- **3 casos**: Monitoramento concorrência/emails/notificações
-
----
-
-### 027 - Multi Agentes (16/04)
-
-**ANTES → DEPOIS:** 1 agente genérico → Time focado
-
-**O QUE ENSINAR:**
-- **Divisão trabalho**: Researcher + Writer + Reviewer
-- **Demo**: "relatório mercado SaaS Brasil" → pesquisa (5min) → escreve (3min) → revisa (1min)
-- **Fluxo**: Flowise multi-agent → resultado final polido
-
----
-
-### 028 - z.ai Barato (21/04)
-
-**ANTES → DEPOIS:** Cloud caro → Frontier acessível
-
-**O QUE ENSINAR:**
-- **Benchmark real**: Mesmo prompt código complexo Claude vs **z.ai GLM-4.5**
-- **Casos**: Debug código, análise técnica, relatórios complexos
-- **Setup**: z.ai web → VSCode integration
-- **Métrica**: Custo 86% menor, qualidade equivalente
-
----
-
-### 029 - Templates Pro (23/04)
-
-**ANTES → DEPOIS:** Design demorado → Profissional instantâneo
-
-**O QUE ENSINAR:**
-- **Templates IA**: Proposta comercial → PDF LaTeX pronto
-- **Fluxo**: Markdown template + **Ollama** → personaliza → Canva Magic PDF
-- **5 casos**: Proposta/nota fiscal/relatório/Kanban/apresentação
-- **Métrica**: 60min → 90s
-
----
-
-### 030 - RAG Avançado (28/04)
-
-**ANTES → DEPOIS:** Contexto falho → Perfeito sempre
-
-**O QUE ENSINAR:**
-- **Chunking ciência**: 5 tamanhos testados → melhor F1 score
-- **Demo**: Contrato 200p → pergunta específica → página/parágrafo exatos
-- **Anything LLM Pro** → hybrid search + reranking
-
----
-
-### 031 - Scale Empresa (30/04)
-
-**ANTES → DEPOIS:** Uso pessoal → Equipe corporativa
-
-**O QUE ENSINAR:**
-- **Multi-tenant**: **Railway + Flowise** → cada usuário próprios docs/memória
-- **Demo**: 3 usuários → buscas independentes
-- **Métrica**: Latência <2s mesmo 10 concurrent
-- **Setup**: Docker Compose 5min
-
----
-
-### 032 - Analytics (05/05)
-
-**ANTES → DEPOIS:** "Não sei se funciona" → 5 gráficos
-
-**O QUE ENSINAR:**
-- **5 métricas principais**: Queries/dia, tempo resposta, docs usados, custo evitado, precisão
-- **Demo**: **Flowise analytics** → gráficos 30 dias
-- **Alertas**: "Uso >80% quota"
-
----
-
-### 033 - API Própria (07/05)
-
-**ANTES → DEPOIS:** Consome APIs → Cliente paga SUA
-
-**O QUE ENSINAR:**
-- **Primeiro serviço**: `/resuma-pdf` endpoint
-- **Stack**: **Railway FastAPI + Ollama** → documentação Swagger
-- **Demo**: Postman → PDF input → resumo JSON output
-- **Preço**: R$97/mês 1000 resumos
-
----
-
-### 034 - Zero Cloud (12/05)
-
-**ANTES → DEPOIS:** Cloud dependente → Livre total
-
-**O QUE ENSINAR:**
-- **Checklist 50 itens**: Backup 3n + VeraCrypt + airgap + LM Studio offline
-- **Demo**: Internet off → tudo funciona
-- **Custo**: R$0 vs R$240/ano cloud
-- **Migração**: 3 passos cloud→local
-
----
-
-### 035 - Freelancer (16/05)
-
-**ANTES → DEPOIS:** "Por onde começar?" → 3 primeiros clientes
-
-**O QUE ENSINAR:**
-- **Nicho IA**: Resumos jurídicos, pesquisa mercado, templates personalizados
-- **3 propostas prontas** + precificação + follow-up auto
-- **Funil**: LinkedIn → WhatsApp → contrato Markdown
-
----
-
-### 036 - Dev Roadmap (21/05)
-
-**ANTES → DEPOIS:** "Quero aprender IA" → Roadmap 6 meses
-
-**O QUE ENSINAR:**
-- **Zero → FastAPI + Langchain**: Mês 1 (básico), Mês 3 (RAG), Mês 6 (agentes)
-- **Recursos grátis**: 10 cursos/5 livros/3 projetos GitHub
-- **Certificação**: 3 badges portfolio
-
----
-
-### 037 - Marketing (23/05)
-
-**ANTES → DEPOIS:** Campanhas manuais → Auto otimizadas
-
-**O QUE ENSINAR:**
-- **Funil IA**: Lead magnet → email sequence → A/B teste auto
-- **Templates**: 10 copy emails + landing page
-- **Métrica**: Conversão 2% → 12%
-
----
-
-### 038 - Vendas (28/05)
-
-**ANTES → DEPOIS:** Cold call 5% → Follow-up inteligente
-
-**O QUE ENSINAR:**
-- **CRM IA**: Lead → qualifica → proposta personalizada → follow-up timing perfeito
-- **3 scripts**: Qualificação/proposta/objeções
-- **Integração**: WhatsApp + Google Sheets
-
----
-
-### 039 - Comunidade (30/05)
-
-**ANTES → DEPOIS:** Leitor → Líder comunidade
-
-**O QUE ENSINAR:**
-- **Comunidade própria**: Discord + Flowise → Q&A auto + eventos
-- **3 monetizações**: Assinatura/acesso antecipado/consultoria 1:1
-- **Growth**: Twitter → newsletter → Discord
-
----
-
-### 040 - Agência (04/06)
-
-**ANTES → DEPOIS:** Freelancer → Scale agência
-
-**O QUE ENSINAR:**
-- **4 serviços prontos**: Resumos/research/templates/relatórios
-- **Sistema**: Flowise multi-tenant + white label
-- **Contratos**: 3 modelos recorrentes
-- **Equipe**: 3 agentes + 1 humano
-
----
-
-### 041 - Enterprise (06/06)
-
-**ANTES → DEPOIS:** "Como convencer CIO?" → Checklist C-level
-
-**O QUE ENSINAR:**
-- **ROI calculadora**: 50 funcionários × 2h/dia economizadas = R$1M/ano
-- **3 fases**: Piloto (1 mês), Escala (3 meses), Enterprise (12 meses)
-- **LGPD enterprise** + suporte 24/7
-
----
-
-### 042 - Mestre Completo (11/06)
-
-**ANTES → DEPOIS:** "Fiz jornada" → Plano próximo nível
-
-**O QUE ENSINAR:**
-- **Checklist maestria**: 10 competências verificadas
-- **Próximos passos**: 1. Consultoria C-level 2. Conferências 3. Livro 4. Cursos próprios
-- **Certificado**: "Nexus AI Master #042"
-
----
-
 ## 🎯 PROGRESSÃO PSICOLÓGICA PERFEITA (7 FASES)
 
 ```
@@ -569,12 +71,10 @@
 
 ---
 
-## CONTROLE DE STATUS
-
-### Tabela Resumida
+## 📊 CONTROLE DE STATUS
 
 | ID | Data | Tema | Título | Status | Banner | Blog | Thread | Premium | Prioridade | Fase |
-|:---|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---|
+|----|------|-------|--------|--------|--------|-------|----------|------------|-------|
 | 001 | 13/01 | Termos Básicos | IA/ML/LLM: Explica pro chefe! | completed | ✅ | ✅ | ✅ | ❌ | Alta | 1 |
 | 002 | 15/01 | Cloud vs Local | Cloud ESPIONA você? 5min teste! | backlog | - | - | - | - | Alta | 1 |
 | 003 | 20/01 | Empregos | IA faz ISSO por você HOJE | backlog | - | - | - | - | Alta | 1 |
@@ -672,47 +172,501 @@ backlog → researching → imagesReady → textReady → blogPosted → tweetPo
 
 ---
 
-## WORKFLOW DE VERSIONAMENTO
+## 📖 DETALHES COMPLETOS - O QUE ENSINAR (Temas Expandidos + Abordagem Psicológica)
 
-### Antes de Cada Post
-```bash
-# 1. Atualizar repositório
-git pull origin main
+### 001 - Termos Básicos (13/01)
 
-# 2. Ler arquivo de tópicos
-cat docs/topics.md
+**ANTES → DEPOIS:** Confusão total → Fala fluente IA
 
-# 3. Selecionar próximo post
-# Filtrar por: status=imagesReady (pronto para blog)
-# ou: status=textReady (pronto para Twitter)
-```
-
-### Durante Produção
-```
-ContentManager:
-1. Selecionar post mais prioritário
-2. Delegar ImageManager → Gerar imagens
-3. Atualizar status: backlog → imagesReady
-4. Delegar Copywriter → Escrever texto
-5. Atualizar status: imagesReady → textReady
-6. Delegar BlogManager → Criar post
-7. Atualizar status: textReady → blogPosted
-8. Delegar TwitterManager → Postar thread
-9. Atualizar status: blogPosted → tweetPosted
-10. Finalizar: tweetPosted → completed
-```
-
-### Após Cada Post
-```bash
-# 1. Commit alterações
-git add docs/topics.md
-git commit -m "Update: Post {ID} status → {novo_status}"
-
-# 2. Push para GitHub
-git push origin main
-```
+**O QUE ENSINAR:**
+- **Hierarquia 3 níveis:** IA = sistema operacional cérebro (Windows), ML = aprende padrões (recomenda Netflix), LLM = conversa inteligente (ChatGPT)
+- **3 analogias:** Celular OS/ML/apps, carro direção autônoma, médico diagnóstico
+- **Mito:** "IA pensa como humano" → **Verdade:** "Prevê padrões estatísticos"
+- **Ação:** LM Studio download → "Olá mundo" funcionando
 
 ---
+
+### 002 - Cloud vs Local (15/01)
+
+**ANTES → DEPOIS:** "Só conheço ChatGPT" → Escolhe consciente
+
+**O QUE ENSINAR:**
+- **Psicologia medo:** 3 histórias reais (Samsung vazou voz, Amazon lê emails, OpenAI treina GPT5 com prompts)
+- **Matriz decisão:** Custo ($20 vs $0), Privacidade (total vs OpenAI lê), Dependência (internet vs offline), Velocidade (compara prompts iguais)
+- **Demo:** Mesmo prompt 3x ChatGPT vs LM Studio → qualidade/custo/tempo
+
+---
+
+### 003 - Empregos (20/01)
+
+**ANTES → DEPOIS:** "Vou perder emprego" → Lista 5 tarefas delegadas
+
+**O QUE ENSINAR:**
+- **Mindset mudança:** IA = calcular 2.0 (ninguém chora calculadora)
+- **Mapeamento 80/20:** 80% tarefas escritório (resumos/emails/pesquisa/agendamentos/follow-up)
+- **Demo prática:** Copia últimas 5 tarefas ChatGPT → refaz LM Studio → mede tempo economizado (ex: 45min → 4min)
+- **Cases:** Assistente → +300% produtividade
+
+---
+
+### 004 - Dados (22/01)
+
+**ANTES → DEPOIS:** "Guarda tudo?" → Faz primeiro backup
+
+**O QUE ENSINAR:**
+- **Dados = ouro moderno:** OpenAI usa prompts pra treinar GPT-5
+- **3 riscos reais:** Demissão (conversas RH), concorrência (estratégia vazada), legal (LGPD multas R$50M)
+- **Passo-a-passo:** Settings → Data Controls → Export Data → baixa JSON → abre browser → "Isto É SEU"
+- **Pergunta chave:** "Quer OpenAI lucrando com isso?"
+
+---
+
+### 005 - Backup (27/01)
+
+**ANTES → DEPOIS:** Chats sumiram → Busca conversa 6 meses
+
+**O QUE ENSINAR:**
+- **Histórico = conhecimento acumulado:** 1 ano conversas = MBA personalizado
+- **Dor comum:** "Perdi ideias projeto X"
+- **Solução:** Upload JSON ChatGPT no **Anything LLM** → pergunta "O que falei sobre marketing em março?" → resposta exata com data
+- **3 use cases:** Recupera ideias, treina IA pessoal, evita repetir explicações
+
+---
+
+### 006 - Memória (29/01)
+
+**ANTES → DEPOIS:** Repete contexto → Memória permanente
+
+**O QUE ENSINAR:**
+- **Problema repetição:** 80% tempo explicando background
+- **Abordagem comparativa:** 3 cenários (projeto/cliente/pessoal) → prompt simples vs com memória → qualidade +50%
+- **Métricas:** Tempo/prompt 5min → 30s
+- **Psicologia:** "IA finalmente me conhece"
+- **Demo:** "Lembra minha empresa? Meu cliente JP?"
+
+---
+
+### 007 - 1ª IA Local (03/02)
+
+**ANTES → DEPOIS:** "Nunca instalei nada" → Chat 2min
+
+**O QUE ENSINAR:**
+- **Primeira vitória psicológica:** Download → funciona
+- **2 caminhos:** **Web primeiro** (ollama.com/chat) → **App depois** (LM Studio)
+- **3 prompts teste:** "Quem sou?", "Resuma meu dia", "3 ideias negócio"
+- **Barra progresso** = confiança imediata
+- **Mensagem:** "Você tem ChatGPT particular agora"
+
+---
+
+### 008 - Interface (05/02)
+
+**ANTES → DEPOIS:** CLI assusta → Web bonita drag&drop
+
+**O QUE ENSINAR:**
+- **UX problema:** Leigos odeiam terminal
+- **Solução:** **Anything LLM desktop** → arrasta 5 PDFs → chat instantâneo
+- **Antes/Depois:** CLI feio vs web bonita
+- **3 fluxos:** Upload doc → pergunta → resposta destacada página
+- **Métrica:** Tempo setup 30min → 2min
+
+---
+
+### 009 - PDFs (10/02)
+
+**ANTES → DEPOIS:** 45min procura manual → 12s resposta
+
+**O QUE ENSINAR:**
+- **Dor universal:** Contrato 127 páginas → "Onde tá cláusula pagamento?"
+- **Demo:** Upload 5 PDFs reais → pergunta específica → "Página 17, parágrafo 3"
+- **3 tipos:** Contrato/livro/manual técnico
+- **Métricas reais:** Tempo 45min → 12s, precisão 94% vs busca Ctrl+F 30%
+
+---
+
+### 010 - Livros (12/02)
+
+**ANTES → DEPOIS:** 200 páginas → 300 palavras inteligentes
+
+**O QUE ENSINAR:**
+- **Problema tempo:** Quer conhecimento, não leitura
+- **3 níveis resumo:** Fraco (ChatGPT genérico), Médio (Ollama básico), Excelente (Anything LLM+contexto)
+- **Demo:** PDF **Atomic Habits grátis** → 3 resumos lado a lado → melhor vence
+- **5 templates:** Estudo/trabalho/executivo/vendas/criativos
+
+---
+
+### 011 - Emails (17/02)
+
+**ANTES → DEPOIS:** Inbox 100+ → 80% templates IA
+
+**O QUE ENSINAR:**
+- **Regra 80/20:** 80% emails repetitivos
+- **3 templates reais:** **Vendas** ("orçamento"), **Suporte** ("erro login"), **Agendamento** ("reunião 15h")
+- **Integração:** MailMaestro (Gmail extension) + Ollama local
+- **Métrica:** 100 emails → 15min vs 2h
+
+---
+
+### 012 - Busca Arquivos (19/02)
+
+**ANTES → DEPOIS:** "Onde tá aquele doc?" → 10k arquivos
+
+**O QUE ENSINAR:**
+- **Caos Downloads:** 50GB perdidos
+- **Solução:** **PrivateGPT** → pasta Downloads → "contrato 2025" → lista **5 arquivos relevantes rankeados**
+- **Antes/Depois:** Windows busca (100 resultados ruins) vs IA (3 perfeitos)
+- **3 categorias:** Trabalho/pessoal/financeiro
+
+---
+
+### 013 - Notícias (24/02)
+
+**ANTES → DEPOIS:** 1000 artigos/semana → Top 3 ação
+
+**O QUE ENSINAR:**
+- **Problema atenção:** RSS sobrecarrega
+- **Fluxo:** **Feedly** (grátis) + **Make.com** → Ollama resume → email
+- **Template:** **"Top 3 notícias + 1 ação hoje"**
+- **Métrica:** 2h/semana → 5min/dia
+- **Fontes:** 5 sites confiáveis brasileiros
+
+---
+
+### 014 - WhatsApp (26/02)
+
+**ANTES → DEPOIS:** 150 mensagens/dia → 20min
+
+**O QUE ENSINAR:**
+- **Realidade Brasil:** WhatsApp = principal canal
+- **Solução:** **ManyChat** (nocode) + Ollama webhook
+- **3 regras:** **Vendas** ("quanto?"), **Suporte** ("erro"), **Spam** (ignore)
+- **Métrica:** 150msg → 20min vs 3h
+- **Demo:** 10 mensagens reais
+
+---
+
+### 015 - LGPD (03/03)
+
+**ANTES → DEPOIS:** "Tenho dados clientes?" → Checklist legal
+
+**O QUE ENSINAR:**
+- **Medo R$50M multas:** 90% MEI descumprem
+- **10 perguntas** sim/não + **Ollama gera política privacidade personalizada**
+- **Templates:** Termo consentimento, anonimização, cláusula contrato
+- **3 cenários:** MEI/freelancer/empresa 3+ funcionários
+
+---
+
+### 016 - Criptografia (05/03)
+
+**ANTES → DEPOIS:** Google Drive exposto → Cofre invisível
+
+**O QUE ENSINAR:**
+- **Histórias reais:** Ex-namorado acessa Drive, cliente vê concorrência
+- **Solução:** **Cryptomator** (Dropbox criptografado)
+- **Abordagem:** Antes (plano grátis exposto) vs Depois (cofre transparente)
+- **3 casos:** Clientes/pessoal/fotos família
+
+---
+
+### 017 - Reuniões (10/03)
+
+**ANTES → DEPOIS:** 20h/mês reuniões → Insights acionáveis
+
+**O QUE ENSINAR:**
+- **Dor corporativa:** Reuniões improdutivas
+- **Solução:** **MacWhisper app** → grava Zoom → 3 bullets + responsáveis + prazos
+- **Template:** **"Decisões | Ações | Pendências"**
+- **Demo:** 1h reunião → 30s resumo
+
+---
+
+### 018 - Pesquisa (12/03)
+
+**ANTES → DEPOIS:** Resultados genéricos → Contexto pessoal
+
+**O QUE ENSINAR:**
+- **Relevância problema:** Google ignora SEUS docs
+- **Demo:** **"impostos 2025"** → Google (genérico) vs **Perplexity local** (contrato página 17)
+- **3 tipos:** Técnico/pessoal/legal
+- **Métrica:** Tempo relevante 90% maior
+
+---
+
+### 019 - No-Code App (17/03)
+
+**ANTES → DEPOIS:** "Quero app" → Funcionando offline
+
+**O QUE ENSINAR:**
+- **Sonho empreendedor:** Lista tarefas salva
+- **Solução:** **Flowise drag&drop** → export HTML/JS → funciona offline
+- **3 passos:** Interface → lógica → dados salvos localStorage
+- **Demo:** App completo 47 linhas
+
+---
+
+### 020 - 1º Agente (19/03)
+
+**ANTES → DEPOIS:** Automação sonho → 30s manual
+
+**O QUE ENSINAR:**
+- **Primeira automação real:** Email → resume → Notion
+- **Fluxo:** **Flowise** → Gmail trigger → Ollama resume → Notion salva
+- **Métrica:** 30min manual → 30s auto
+- **Psicologia:** "Finalmente trabalho pra mim"
+
+---
+
+### 021 - Web Agent (24/03)
+
+**ANTES → DEPOIS:** 1h pesquisa → Relatório 5min
+
+**O QUE ENSINAR:**
+- **Caso prático:** "melhor notebook 2026" → tabela 5 modelos (preço/bateria/reviews)
+- **Fluxo:** **Flowise + Serper** → pesquisa → Ollama analisa → tabela Markdown
+- **Template relatório:** Cabeçalho/executivo/conclusão
+
+---
+
+### 022 - Organização (26/03)
+
+**ANTES → DEPOIS:** Downloads perdidos → IA encontra
+
+**O QUE ENSINAR:**
+- **Vida real:** 10k arquivos sem sistema
+- **Solução:** **DocPii web app** → upload Downloads → "contratos 2024" → organiza por tipo + busca semântica
+- **Métrica:** Tempo busca 30min → 3s
+
+---
+
+### 023 - MARKDOWN (31/03)
+
+**ANTES → DEPOIS:** Docs feios → GitHub bonito
+
+**O QUE ENSINAR:**
+- **Markdown = texto IA:** Word bagunça prompts, Markdown limpo = IA entende 100%
+- **3 apps:** **Typora** (visual Word-like), **Obsidian** (wiki), **MarkText** (minimalista)
+- **5 templates:** Proposta/notas reunião/relatório semanal/roadmap/Kanban
+- **Demo:** Mesmo conteúdo Word vs Markdown → IA processa 3x melhor
+
+---
+
+### 024 - Wiki Pessoal (02/04)
+
+**ANTES → DEPOIS:** Notion 10 apps → 1 busca unificada
+
+**O QUE ENSINAR:**
+- **Problema fragmentação:** Email+Docs+Notion+WhatsApp
+- **Solução:** **Obsidian + Anything LLM** → "o que sei sobre marketing?" → tudo num lugar
+- **3 fontes:** PDFs+Markdown+conversas
+- **Métrica:** Tempo coordenação 2h → 30s
+
+---
+
+### 025 - Idiomas (07/04)
+
+**ANTES → DEPOIS:** Barreira idioma → Contrato bilíngue
+
+**O QUE ENSINAR:**
+- **Dor freelancer:** Cliente EUA quer inglês técnico
+- **Solução:** **Ollama + LibreTranslate** → contrato PT-BR → EN-US + validação paralela
+- **3 casos:** Propostas/contratos/emails executivos
+- **Template:** Cabeçalho bilíngue + cláusulas lado a lado
+
+---
+
+### 026 - 24/7 Agente (14/04)
+
+**ANTES → DEPOIS:** PC desliga → VPS sempre ligado
+
+**O QUE ENSINAR:**
+- **Limitação local:** PC off = IA parada
+- **Solução:** **Railway.app $6/mês** → Flowise 1-click deploy
+- **Demo:** WhatsApp 3h → resposta auto 3min depois
+- **3 casos:** Monitoramento concorrência/emails/notificações
+
+---
+
+### 027 - Multi Agentes (16/04)
+
+**ANTES → DEPOIS:** 1 agente genérico → Time focado
+
+**O QUE ENSINAR:**
+- **Divisão trabalho:** Researcher + Writer + Reviewer
+- **Demo:** **"relatório mercado SaaS Brasil"** → pesquisa (5min) → escreve (3min) → revisa (1min)
+- **Fluxo:** Flowise multi-agent → resultado final polido
+
+---
+
+### 028 - z.ai Barato (21/04)
+
+**ANTES → DEPOIS:** Cloud caro → Frontier acessível
+
+**O QUE ENSINAR:**
+- **Benchmark real:** Mesmo prompt código complexo Claude vs **z.ai GLM-4.5**
+- **Casos:** Debug código, análise técnica, relatórios complexos
+- **Setup:** z.ai web → VSCode integration
+- **Métrica:** Custo 86% menor, qualidade equivalente
+
+---
+
+### 029 - Templates Pro (23/04)
+
+**ANTES → DEPOIS:** Design demorado → Profissional instantâneo
+
+**O QUE ENSINAR:**
+- **Templates IA:** Proposta comercial → PDF LaTeX pronto
+- **Fluxo:** Markdown template + **Ollama** → personaliza → Canva Magic PDF
+- **5 casos:** Proposta/nota fiscal/relatório/Kanban/apresentação
+- **Métrica:** 60min → 90s
+
+---
+
+### 030 - RAG Avançado (28/04)
+
+**ANTES → DEPOIS:** Contexto falho → Perfeito sempre
+
+**O QUE ENSINAR:**
+- **Chunking ciência:** 5 tamanhos testados → melhor F1 score
+- **Demo:** Contrato 200p → pergunta específica → página/parágrafo exatos
+- **Anything LLM Pro:** hybrid search + reranking
+
+---
+
+### 031 - Scale Empresa (30/04)
+
+**ANTES → DEPOIS:** Uso pessoal → Equipe corporativa
+
+**O QUE ENSINAR:**
+- **Multi-tenant:** **Railway + Flowise** → cada usuário próprios docs/memória
+- **Demo:** 3 usuários → buscas independentes
+- **Métrica:** Latência <2s mesmo 10 concurrent
+- **Setup:** Docker Compose 5min
+
+---
+
+### 032 - Analytics (05/05)
+
+**ANTES → DEPOIS:** "Não sei se funciona" → 5 gráficos
+
+**O QUE ENSINAR:**
+- **5 métricas principais:** Queries/dia, tempo resposta, docs usados, custo evitado, precisão
+- **Demo:** **Flowise analytics** → gráficos 30 dias
+- **Alertas:** "Uso >80% quota"
+
+---
+
+### 033 - API Própria (07/05)
+
+**ANTES → DEPOIS:** Consome APIs → Cliente paga SUA
+
+**O QUE ENSINAR:**
+- **Primeiro serviço:** `/resuma-pdf` endpoint
+- **Stack:** **Railway FastAPI + Ollama** → documentação Swagger
+- **Demo:** Postman → PDF input → resumo JSON output
+- **Preço:** R$97/mês 1000 resumos
+
+---
+
+### 034 - Zero Cloud (12/05)
+
+**ANTES → DEPOIS:** Cloud dependente → Livre total
+
+**O QUE ENSINAR:**
+- **Checklist 50 itens:** Backup 3n + VeraCrypt + airgap + LM Studio offline
+- **Demo:** Internet off → tudo funciona
+- **Custo:** R$0 vs R$240/ano cloud
+- **Migração:** 3 passos cloud→local
+
+---
+
+### 035 - Freelancer (16/05)
+
+**ANTES → DEPOIS:** "Por onde começar?" → 3 primeiros clientes
+
+**O QUE ENSINAR:**
+- **Nicho IA:** Resumos jurídicos, pesquisa mercado, templates personalizados
+- **3 propostas prontas** + precificação + follow-up auto
+- **Funil:** LinkedIn → WhatsApp → contrato Markdown
+
+---
+
+### 036 - Dev Roadmap (21/05)
+
+**ANTES → DEPOIS:** "Quero aprender IA" → Roadmap 6 meses
+
+**O QUE ENSINAR:**
+- **Zero → FastAPI + Langchain:** Mês 1 (básico), Mês 3 (RAG), Mês 6 (agentes)
+- **Recursos grátis:** 10 cursos/5 livros/3 projetos GitHub
+- **Certificação:** 3 badges portfolio
+
+---
+
+### 037 - Marketing (23/05)
+
+**ANTES → DEPOIS:** Campanhas manuais → Auto otimizadas
+
+**O QUE ENSINAR:**
+- **Funil IA:** Lead magnet → email sequence → A/B teste auto
+- **Templates:** 10 copy emails + landing page
+- **Métrica:** Conversão 2% → 12%
+
+---
+
+### 038 - Vendas (28/05)
+
+**ANTES → DEPOIS:** Cold call 5% → Follow-up inteligente
+
+**O QUE ENSINAR:**
+- **CRM IA:** Lead → qualifica → proposta personalizada → follow-up timing perfeito
+- **3 scripts:** Qualificação/proposta/objeções
+- **Integração:** WhatsApp + Google Sheets
+
+---
+
+### 039 - Comunidade (30/05)
+
+**ANTES → DEPOIS:** Leitor → Líder comunidade
+
+**O QUE ENSINAR:**
+- **Comunidade própria:** Discord + Flowise → Q&A auto + eventos
+- **3 monetizações:** Assinatura/acesso antecipado/consultoria 1:1
+- **Growth:** Twitter → newsletter → Discord
+
+---
+
+### 040 - Agência (04/06)
+
+**ANTES → DEPOIS:** Freelancer → Scale agência
+
+**O QUE ENSINAR:**
+- **4 serviços prontos:** Resumos/research/templates/relatórios
+- **Sistema:** Flowise multi-tenant + white label
+- **Contratos:** 3 modelos recorrentes
+- **Equipe:** 3 agentes + 1 humano
+
+---
+
+### 041 - Enterprise (06/06)
+
+**ANTES → DEPOIS:** "Como convencer CIO?" → Checklist C-level
+
+**O QUE ENSINAR:**
+- **ROI calculadora:** 50 funcionários × 2h/dia economizadas = R$1M/ano
+- **3 fases:** Piloto (1 mês), Escala (3 meses), Enterprise (12 meses)
+- **LGPD enterprise** + suporte 24/7
+
+---
+
+### 042 - Mestre Completo (11/06)
+
+**ANTES → DEPOIS:** "Fiz jornada" → Plano próximo nível
+
+**O QUE ENSINAR:**
+- **Checklist maestria:** 10 competências verificadas
+- **Próximos passos:** 1. Consultoria C-level 2. Conferências 3. Livro 4. Cursos próprios
+- **Certificado:** "Nexus AI Master #042"
 
 ---
 
